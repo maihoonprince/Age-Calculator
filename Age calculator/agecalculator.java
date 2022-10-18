@@ -1,7 +1,7 @@
 import java.util.*;
 import java.time.*;
 
-public class Agecalculator 
+public class agecalculator
 {
     public static void main(String args[])
     {
